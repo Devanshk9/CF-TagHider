@@ -155,5 +155,5 @@ PRs welcome. Keep it simple, MV3‑compliant, and privacy‑friendly.
 
 ##  License
 
-MIT © 2025 Your Name
+MIT © 2025 Devansh Khetan
 
